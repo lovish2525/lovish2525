@@ -3,7 +3,13 @@
 
 - 🌱 I’m currently exploring **Devops**
 
-- 📫 You can contact me through email - [lovishkumar2552@gmail.com](lovishkumar2552@gmail.com)
+- 💻 I love doing **competitive programming and learning new algorithms.**
+
+- 🎓 I've completed my Bachelors in Computer Science from [Chitkara University, Punjab.](Chitkara University, Punjab.)
+
+- 🌱 I'm exploring different fields in **software development and learning new skills.**
+
+- 📫 You can contact me through email [lovishkumar2552@gmail.com](lovishkumar2552@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
