@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋, I'm Lovish</h1>
-<h3 align="left">A passionate software developer from India</h3>
-
-- 🌱 I’m currently exploring **Devops**
+<h3 align="left">A passionate software developer</h3>
 
 - 💻 I love doing **competitive programming and learning new algorithms.**
 
