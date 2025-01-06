@@ -2,11 +2,15 @@
 
 <h4 align="left">👨‍💻 About Me</h2>
 
+- 🎓 I've completed my Bachelors in Computer Science from Chitkara University.
+
+- 💻 I am currently working as a Software Developer at Razorpay.**
+
 - 💻 I love doing **competitive programming and learning new algorithms.**
 
-- 🎓 I've completed my Bachelors in Computer Science from [Chitkara University, Punjab.](Chitkara University, Punjab.)
-
 - 🌱 I'm exploring different fields in **software development and learning new skills.**
+
+- 💡 I’m currently diving into DevOps as a way to expand my skills and explore new aspects of software development.
 
 - 📫 You can contact me through email [lovishkumar2552@gmail.com](lovishkumar2552@gmail.com)
 
