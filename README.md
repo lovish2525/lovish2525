@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Lovish</h1>
-<h3 align="left">A passionate software developer</h3>
 
 <h4 align="left">👨‍💻 About Me</h2>
 
